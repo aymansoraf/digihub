@@ -11,3 +11,18 @@ git add . (for addin all unadded files to git )
 git commit -m "commiting message goes here"
 
 git push origin -u origin ( to push to github repository)
+
+git commit -am "message goes here(-am stands for add and message at the same time)
+
+------------branches--------------
+git branch branchname (to create new branch)
+
+git branch (to list all branches)
+
+git checkout wishedbranch(to change branche)
+
+git checkout -b newbranch ( creat new branch and switch to it at the same time)
+
+
+
+

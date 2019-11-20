@@ -1,0 +1,13 @@
+git init
+git config -l
+git config --gloabl user.name "nom prenom"
+git config --gloabl user.email "email@email.Com"
+
+git remote add origin http://github.com/repositorylink
+git remote -v 
+
+git add . (for addin all unadded files to git )
+
+git commit -m "commiting message goes here"
+
+git push origin -u origin ( to push to github repository)
